@@ -1,0 +1,392 @@
+@font-face {
+    font-family: pppreg;
+    src: url("../fonts/Poppins-Regular.ttf");
+  }
+  
+  @font-face {
+    font-family: pppsemibld;
+    src: url("../fonts/Poppins-SemiBold.ttf");
+  }
+  
+  * {
+    font-family: pppreg;
+  } 
+   
+  body {
+    font-family: pppreg;
+  }
+  
+  .pppreg {
+    font-family: pppreg;
+  }
+  
+  .pppsemibld {
+    font-family: pppsemibld;
+  }
+  .header{
+    margin-top: 50px;
+  }
+  .header:hover{
+    background: #E8E9EA;
+    width: 200px;
+    height: 50px;
+    padding-top: 10px;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+     vertical-align: baseline;
+     border-radius: 20px;
+  }
+  .Now{
+    width: 150px;
+    height: 50px;
+    background: #BB3026;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 30px;
+    color: white;
+   
+  }
+  .shopping{
+    width: 20px;
+    margin-right: 25px;
+  }
+  .hr{
+   margin-top: 10px;
+   background-color: #BB3026 ;
+   height: 3px;  
+  }
+  .nav{
+    margin-top: 30px;
+  }
+  .sb{
+      margin-left: 150px;
+      color: blue!important;
+  }
+  .buy{
+      margin-right: 250px;
+      width: 150px;
+      height: 50px;
+      border-radius: 10px;
+  }
+  .Build{
+      margin-top: 130px;
+      color: #363D47;
+  }
+  .welcome{
+      color: #69708B;
+      margin-top: 15px;
+  }
+  .img{
+      margin-top: 80px;
+  }
+  .Demo{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 40px;
+    width: 170px;
+    height: 70px;
+  }
+  .demo{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    width: 170px;
+    height: 70px;
+    margin-top: 40px;
+  }
+  .Landing {
+    text-align: center;
+    margin-top: 20px;
+    color: #69707C;
+  }
+  .When{
+    text-align: center;
+    margin-top: 20px;
+    color: #69708B;
+  }
+  .landing1{
+    margin-top: 23px;
+    border-radius: 15px;
+    width: 350px;
+   margin-left: 120px;
+  }
+  .landing1:hover{
+    margin-top: -5px;
+  }
+  .landing6{
+    margin-top: 23px;
+    border-radius: 15px;
+    width: 350px;
+   margin-left: 120px;
+  }
+  .landing6:hover{
+    margin-top: -5px;
+
+  }
+  .landing7{
+    margin-top: 23px;
+    border-radius: 15px;
+    width: 350px;
+   margin-left: 120px;
+  }
+  .landing7:hover{
+    margin-top: -5px;
+  }
+  .landing8{
+    margin-top: 23px;
+    border-radius: 15px;
+    width: 350px;
+   margin-left: 120px;
+  }
+  .landing8:hover{
+    margin-top: -5px;
+  }
+  .landingapp{
+    width: 350px;
+    border-radius: 15px;
+    margin-left: 60px;
+  }
+  .landingapp:hover{
+    margin-top: -6px;
+  }
+  .landing3{
+    width: 350px;
+    border-radius: 15px;
+    /* margin-right: 300px; */
+  }
+ .landing3:hover{
+   margin-top: -6px;
+ }
+  .main{
+    width: 100%;
+    height: 1800px;
+    background-color: #F2F6FC;
+    margin-top: 150px;
+  }
+  .sain{
+    width: 100%;
+    height: 1100px;
+    background-color: #F2F6FC;
+    margin-top: 150px;
+  }
+  .rain{
+    width: 100%;
+    height: 500px;
+    background-color: #F2F6FC;
+    margin-top: 150px;
+    /* background-image: url("./image/capture1.png"); */
+  }
+  .Cust{
+    background: #DAE7FB;
+    width: 150px;
+    height: 40px;
+    margin-left: 600px;
+    border-radius: 50px;
+    margin-top: 100px;
+    color: #0061f2 !important;
+    padding-top: 5px;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+     vertical-align: baseline;
+
+  }
+  .Header{
+    margin-left: 550px;
+    font-size: 30px;
+  }
+  .Demo1{
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 150px;
+  }
+  .Demo2{
+    text-align: center;
+    margin-top: 100px;
+  }
+   .Demo3{
+   margin-left: 90px;
+    margin-top: 100px;
+  }
+  .Demo4{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 150px;
+  }
+  .Demo5{
+    text-align: center;
+    margin-top: 70px;
+  }
+  .Demo6{
+    margin-left: 90px;
+    margin-top: 70px;
+  }
+   .Demo7{
+    text-align: center;
+    margin-top: 53px;
+    margin-left: 150px;
+  }
+   .Demo8{
+    text-align: center;
+    margin-top: 80px;
+  }
+  .Demo9{
+    margin-left: 90px;
+    margin-top: 80px;
+  }
+  .dims{
+    margin-left: 650px;
+    margin-top: 100px;
+    padding: .5em 1em;
+    border-radius: 50rem !important;
+    background-color: #dae7fb !important;
+    color: #0061f2 !important;
+    margin-bottom: 1rem !important;
+    display: inline-block;
+    padding: .35em .65em;
+    font-size: .75em;
+    font-weight: 400;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;  
+  }
+  .tion{
+    font-size: 30px;
+    margin-top: 80px;
+    color: #363D47;
+  }
+  .Company{
+    margin-top: 80px;
+  }
+  .land1{
+    width: 350px;
+    border-radius: 15px;
+  }
+  /* a:hover{
+     color: #F2F6FC;
+  } */
+  
+  .land2{
+    width: 350px;
+    border-radius: 15px;
+    margin-left: 400px;
+    margin-top: -240px;
+  }
+  .land3{
+    width: 350px;
+    border-radius: 15px;
+    margin-left: 800px;
+    margin-top: -240px;
+  }
+  .land4{
+    width: 350px;
+    border-radius: 15px;
+    /* margin-left: 800px;
+    margin-top: -200px; */
+  }
+  .land5{
+    width: 350px;
+    border-radius: 15px;
+     margin-left: -260px;
+  }
+  .Careers{
+    margin-top: 40px;
+  }
+  .inner{
+    margin-top: 50;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+    text-align: center;
+     
+  }
+  .group{
+    text-align: center;
+    margin-top: 20px;
+    color: #69708B;
+  }
+  .tag{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 80px;
+    color: #C5CCD6;
+  }
+  .Custom{
+    text-align: center;
+    color: #363D47;
+  }
+  .extended{
+    text-align: center;
+    color: #6B7688;
+  }
+  .View{
+  margin-left: 600px;
+  }
+.SB{
+  color: #C5CCD6;
+  font-size: 30px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.Build1{
+  color: #C5CCD6;
+  font-size: 20px;
+  
+}
+.img1{
+  width: 60px;
+  margin-top: -1px;
+  color: #C5CCD6;
+  display: inline;
+}
+.img2{
+  width: 30px;
+  color: #C5CCD6;
+  margin-right: 10px;
+   
+}
+ 
+.img3{
+  width: 40px;
+  color: #C5CCD6;
+  margin-right: 12px;
+}
+.img4{
+  width: 30px;
+  color: #C5CCD6;
+ 
+}
+.Pro{
+  color: #C5CCD6;
+  font-size: 30px;
+  margin-top: 50px;
+  /* margin-left: 50px; */
+  text-decoration: none;
+  text-align: center;
+  list-style: none;
+}
+.Lan{
+  color: #C5CCD6;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  list-style: none;
+}
+.Copy{
+  color: #C5CCD6;
+  margin-top: 20px;
+  padding-top: -50px;
+  margin-left: 160px;
+}
+.Privacy{
+  color: #C5CCD6;
+  margin-top: 20px;
+  margin-top: -50px;
+  margin-left: 1000px;
+}
